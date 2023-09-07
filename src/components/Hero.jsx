@@ -29,6 +29,14 @@ const Hero = () => {
         <div className="social_icons">
           <a
             href="https://twitter.com/Sharonah_Ken"
+            aria-label="X-Twitter"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="fa-brands fa-x-twitter"></i>
+          </a>
+          <a
+            href="https://twitter.com/Sharonah_Ken"
             aria-label="Twitter"
             target="_blank"
             rel="noopener noreferrer"
