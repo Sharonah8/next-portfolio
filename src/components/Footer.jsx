@@ -15,6 +15,14 @@ const Footer = () => {
           >
             <i className="fa-brands fa-twitter"></i>
           </a>
+          <a
+            href="https://github.com/Sharonah8"
+            aria-label="Github"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="fa-brands fa-github"></i>
+          </a>
         </div>
       </div>
     </>
