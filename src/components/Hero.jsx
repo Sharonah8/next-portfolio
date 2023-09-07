@@ -3,13 +3,20 @@ import React from "react";
 const Hero = () => {
   return (
     <div className="hero-container">
-      <Image
-        src="/images/profile.jpg"
+      <img
+        src="./images/Profile.jpg"
+        alt="Sharon's profile image"
+        className="profile-img"
+        width={300}
+        height={300}
+      />
+      {/* <Image
+        src="/images/Profile.jpg"
         className="profile-img"
         width={300}
         height={300}
         alt="Sharon's profile image"
-      />
+      /> */}
       <div className="hero-text">
         <h1>Hey, I'm Sharon 👋</h1>
         <p>
