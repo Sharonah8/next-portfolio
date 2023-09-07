@@ -23,6 +23,15 @@ const Footer = () => {
           >
             <i className="fa-brands fa-github"></i>
           </a>
+
+          <a
+            href="https://www.linkedin.com/in/sharon-nyamongo/"
+            aria-label="LinkedIn"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="fa-brands fa-linkedin"></i>
+          </a>
         </div>
       </div>
     </>
